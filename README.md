@@ -1,3 +1,5 @@
+Extensive testing practice to level up on react testing with jest and enzyme
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
